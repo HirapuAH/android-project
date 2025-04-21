@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">implicit-and-explicit</string>
+
+    <string name="button_website">open website</string>
+    <string name="button_location">open map</string>
+    <string name="button_share">share text</string>
+    <string name="edit_website">http://developer.android.com</string>
+    <string name="edit_location">utb</string>
+    <string name="edit_share">sharing text</string>
+
+</resources>

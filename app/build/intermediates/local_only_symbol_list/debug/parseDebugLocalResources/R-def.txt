@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id location_button
+id location_edit_text
+id main
+id open_website_button
+id share_edit_text
+id share_text_button
+id website_edit_text
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_location
+string button_share
+string button_website
+string edit_location
+string edit_share
+string edit_website
+style Base.Theme.Implicitandexplicit
+style Theme.Implicitandexplicit
+xml backup_rules
+xml data_extraction_rules
